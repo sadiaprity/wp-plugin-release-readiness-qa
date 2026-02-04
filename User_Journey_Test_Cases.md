@@ -11,3 +11,13 @@ Steps:
 
 Expected Result:
 User can create and submit form without errors or confusion
+
+## Scenario 2: Submit Form with Missing Required Fields
+
+Steps:
+1. Open contact form
+2. Leave required fields empty
+3. Submit form
+
+Expected Result:
+Clear validation message should be displayed
